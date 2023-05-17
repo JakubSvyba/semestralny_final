@@ -109,7 +109,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <form method="post" action="admin.php">
             <table>
                 <tr>
-                    <th>ID</th>
+                    <th> Order ID</th>
                     <th>User ID</th>
                     <th>Order Date</th>
                     <th>Product ID</th>
